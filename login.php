@@ -111,7 +111,7 @@
             
             
             <div class="form-group"><button class="btn btn-primary btn-block" type="submit">Log In</button></div>
-            <a href="Register.php" class="forgot">dont have an account? Register!</a>
+            <a href="register.php" class="forgot">dont have an account? Register!</a>
             <br>
             <a href="forgetPwd.php" class="forgot">Forgot your password?</a>
             </form>
